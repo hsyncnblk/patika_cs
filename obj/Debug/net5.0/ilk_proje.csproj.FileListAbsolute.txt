@@ -1,0 +1,16 @@
+C:\Users\Hüseyin\Desktop\patika_cs\ilk_proje\bin\Debug\net5.0\ilk_proje.exe
+C:\Users\Hüseyin\Desktop\patika_cs\ilk_proje\bin\Debug\net5.0\ilk_proje.deps.json
+C:\Users\Hüseyin\Desktop\patika_cs\ilk_proje\bin\Debug\net5.0\ilk_proje.runtimeconfig.json
+C:\Users\Hüseyin\Desktop\patika_cs\ilk_proje\bin\Debug\net5.0\ilk_proje.runtimeconfig.dev.json
+C:\Users\Hüseyin\Desktop\patika_cs\ilk_proje\bin\Debug\net5.0\ilk_proje.dll
+C:\Users\Hüseyin\Desktop\patika_cs\ilk_proje\bin\Debug\net5.0\ref\ilk_proje.dll
+C:\Users\Hüseyin\Desktop\patika_cs\ilk_proje\bin\Debug\net5.0\ilk_proje.pdb
+C:\Users\Hüseyin\Desktop\patika_cs\ilk_proje\obj\Debug\net5.0\ilk_proje.csproj.AssemblyReference.cache
+C:\Users\Hüseyin\Desktop\patika_cs\ilk_proje\obj\Debug\net5.0\ilk_proje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hüseyin\Desktop\patika_cs\ilk_proje\obj\Debug\net5.0\ilk_proje.AssemblyInfoInputs.cache
+C:\Users\Hüseyin\Desktop\patika_cs\ilk_proje\obj\Debug\net5.0\ilk_proje.AssemblyInfo.cs
+C:\Users\Hüseyin\Desktop\patika_cs\ilk_proje\obj\Debug\net5.0\ilk_proje.csproj.CoreCompileInputs.cache
+C:\Users\Hüseyin\Desktop\patika_cs\ilk_proje\obj\Debug\net5.0\ilk_proje.dll
+C:\Users\Hüseyin\Desktop\patika_cs\ilk_proje\obj\Debug\net5.0\ref\ilk_proje.dll
+C:\Users\Hüseyin\Desktop\patika_cs\ilk_proje\obj\Debug\net5.0\ilk_proje.pdb
+C:\Users\Hüseyin\Desktop\patika_cs\ilk_proje\obj\Debug\net5.0\ilk_proje.genruntimeconfig.cache
